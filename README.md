@@ -78,7 +78,7 @@ $ python sample.py
 
 `--regularised` –– use holistic regularisation in the encoder
 
-## Update 24/5/2020
+## Update 24/5/2021
 - Compatibility with PyTorch 1.8.1
 - Added highly regularised encoder (HR-VAE) inspired by [Li et al.](https://arxiv.org/pdf/1911.05343.pdf)
 - Now the estimates for NLL are shown during training
